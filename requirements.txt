@@ -1,0 +1,7 @@
+Required Libraries:
+- Flask – Web framework
+- NumPy, Pandas – Data handling
+- Scikit-learn – Model training and evaluation
+- XGBoost – Gradient boosting model
+- Matplotlib – For visualizations
+- Joblib – For model serialization
